@@ -1,0 +1,18 @@
+2020-09-11 07:24:38: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-09-11 07:25:18: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2020-09-11 07:29:15: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Hestia\Vista\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
